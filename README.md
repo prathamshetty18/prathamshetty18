@@ -12,7 +12,7 @@
 
 - 🎓 B.Tech in **Artificial Intelligence & Data Science** at NMAM Institute of Technology (NMAMIT), Nitte — 2025–2029
 - 🧠 Focused on **RAG systems, LLMs, embeddings & semantic search**
-- 🏆 Active in **national hackathons** — Manipal Hackathon (Top 30 of 800+ teams), VCET Mumbai Hackathon (Top 50), DevJam VIT Vellore, AI & Data Science Dept. Ideathon (Runner-Up)
+- 🏆 Active in **national hackathons** — Manipal Hackathon (Top 30 of 800+ teams), VCET Mumbai Hackathon (Top 50), DevJam VIT Vellore, AI & Data Science Dept. Ideathon (Runner-Up),HackSpectra ( Top 20)
 - 🌐 **Google Student Ambassador** at NMAMIT — running workshops on Google Gemini & generative AI
 - 🎨 Also design event creatives & graphics for **Finite Loop Club** and **Entrepreneurship Cell**, NMAMIT
 
